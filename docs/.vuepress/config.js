@@ -21,6 +21,10 @@ module.exports = {
             title: "二级目录",
             path: "/",
           },
+          {
+            title: "文章",
+            path: "/sidebar/article",
+          },
         ],
       },
     ],
